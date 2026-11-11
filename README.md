@@ -73,6 +73,16 @@ It helps the brand present its products, provide detailed dessert information,
 collect customer feedback, and make the ordering process simple and accessible
 from any device.
 
+
+
+## My Contribution
+
+**Ihor Hulchak - Frontend Developer**
+
+- Developed the **Customer Reviews** section.
+- Helped implement and refine the customer feedback slider experience.
+- Optimized image assets to improve page performance and loading speed.
+
 ## 🚀 Getting Started
 
 Clone the repository and install the dependencies:
